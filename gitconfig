@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = maxpoirier030395@gmail.com
+	name = max poirier
